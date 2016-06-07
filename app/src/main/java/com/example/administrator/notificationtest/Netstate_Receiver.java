@@ -14,7 +14,7 @@ import android.widget.Toast;
  * Created by Administrator on 2016/5/22.
  */
 public class Netstate_Receiver extends BroadcastReceiver {
-
+//依然是在测试git
     private static final String TAG = "Netstate_Receiver";
     @Override
     public void onReceive(Context context, Intent intent) {
